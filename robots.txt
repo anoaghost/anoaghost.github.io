@@ -1,0 +1,22 @@
+# robots.txt for https://anoaghost.github.io/
+
+User-agent: *
+Disallow: /*
+
+User-agent: Googlebot-category
+Disallow: /*
+
+User-agent: Mediapartners-Google*
+Allow: /*
+
+User-agent: Applebot
+Allow: /*
+
+User-agent: Googlebot
+Allow: /*
+
+User-agent: baiduspider
+Allow: /*
+
+User-agent: Bingbot
+Allow: /*
