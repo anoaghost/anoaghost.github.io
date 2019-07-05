@@ -1,2 +1,2 @@
-# anoaghost.github.io
-Just Website f*cking !
+# Website Information
+Attention ! This is just f&#x2a;*cking website !
