@@ -2,21 +2,28 @@
 
 User-agent: *
 Disallow: /*
+Disallow: /0x.htm
 
 User-agent: Googlebot-category
 Disallow: /*
+Disallow: /0x.htm
 
 User-agent: Mediapartners-Google*
-Allow: /*
+Disallow: /*
+Disallow: /0x.htm
 
 User-agent: Applebot
-Allow: /*
+Disallow: /*
+Disallow: /0x.htm
 
 User-agent: Googlebot
-Allow: /*
+Disallow: /*
+Disallow: /0x.htm
 
 User-agent: baiduspider
-Allow: /*
+Disallow: /*
+Disallow: /0x.htm
 
 User-agent: Bingbot
-Allow: /*
+Disallow: /*
+Disallow: /0x.htm
