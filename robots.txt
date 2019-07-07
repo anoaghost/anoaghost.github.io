@@ -3,27 +3,69 @@
 User-agent: *
 Disallow: /*
 Disallow: /0x.htm
+Disallow: /assets
+Disallow: /assets/js
+Disallow: /assets/css
+Disallow: /assets/js/h4ck3d.js
+Disallow: /assets/js/bl0ck.js
+Disallow: /assets/css/h4ck3d.css
 
 User-agent: Googlebot-category
 Disallow: /*
 Disallow: /0x.htm
+Disallow: /assets
+Disallow: /assets/js
+Disallow: /assets/css
+Disallow: /assets/js/h4ck3d.js
+Disallow: /assets/js/bl0ck.js
+Disallow: /assets/css/h4ck3d.css
 
 User-agent: Mediapartners-Google*
 Disallow: /*
 Disallow: /0x.htm
+Disallow: /assets
+Disallow: /assets/js
+Disallow: /assets/css
+Disallow: /assets/js/h4ck3d.js
+Disallow: /assets/js/bl0ck.js
+Disallow: /assets/css/h4ck3d.css
 
 User-agent: Applebot
 Disallow: /*
 Disallow: /0x.htm
+Disallow: /assets
+Disallow: /assets/js
+Disallow: /assets/css
+Disallow: /assets/js/h4ck3d.js
+Disallow: /assets/js/bl0ck.js
+Disallow: /assets/css/h4ck3d.css
 
 User-agent: Googlebot
 Disallow: /*
 Disallow: /0x.htm
+Disallow: /assets
+Disallow: /assets/js
+Disallow: /assets/css
+Disallow: /assets/js/h4ck3d.js
+Disallow: /assets/js/bl0ck.js
+Disallow: /assets/css/h4ck3d.css
 
 User-agent: baiduspider
 Disallow: /*
 Disallow: /0x.htm
+Disallow: /assets
+Disallow: /assets/js
+Disallow: /assets/css
+Disallow: /assets/js/h4ck3d.js
+Disallow: /assets/js/bl0ck.js
+Disallow: /assets/css/h4ck3d.css
 
 User-agent: Bingbot
 Disallow: /*
 Disallow: /0x.htm
+Disallow: /assets
+Disallow: /assets/js
+Disallow: /assets/css
+Disallow: /assets/js/h4ck3d.js
+Disallow: /assets/js/bl0ck.js
+Disallow: /assets/css/h4ck3d.css
