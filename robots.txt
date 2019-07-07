@@ -9,6 +9,7 @@ Disallow: /assets/css
 Disallow: /assets/js/h4ck3d.js
 Disallow: /assets/js/bl0ck.js
 Disallow: /assets/css/h4ck3d.css
+Disallow: /storage
 
 User-agent: Googlebot-category
 Disallow: /*
@@ -19,6 +20,7 @@ Disallow: /assets/css
 Disallow: /assets/js/h4ck3d.js
 Disallow: /assets/js/bl0ck.js
 Disallow: /assets/css/h4ck3d.css
+Disallow: /storage
 
 User-agent: Mediapartners-Google*
 Disallow: /*
@@ -29,6 +31,7 @@ Disallow: /assets/css
 Disallow: /assets/js/h4ck3d.js
 Disallow: /assets/js/bl0ck.js
 Disallow: /assets/css/h4ck3d.css
+Disallow: /storage
 
 User-agent: Applebot
 Disallow: /*
@@ -39,6 +42,7 @@ Disallow: /assets/css
 Disallow: /assets/js/h4ck3d.js
 Disallow: /assets/js/bl0ck.js
 Disallow: /assets/css/h4ck3d.css
+Disallow: /storage
 
 User-agent: Googlebot
 Disallow: /*
@@ -49,6 +53,7 @@ Disallow: /assets/css
 Disallow: /assets/js/h4ck3d.js
 Disallow: /assets/js/bl0ck.js
 Disallow: /assets/css/h4ck3d.css
+Disallow: /storage
 
 User-agent: baiduspider
 Disallow: /*
@@ -59,6 +64,7 @@ Disallow: /assets/css
 Disallow: /assets/js/h4ck3d.js
 Disallow: /assets/js/bl0ck.js
 Disallow: /assets/css/h4ck3d.css
+Disallow: /storage
 
 User-agent: Bingbot
 Disallow: /*
@@ -69,3 +75,4 @@ Disallow: /assets/css
 Disallow: /assets/js/h4ck3d.js
 Disallow: /assets/js/bl0ck.js
 Disallow: /assets/css/h4ck3d.css
+Disallow: /storage
