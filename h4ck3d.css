@@ -1,23 +1,24 @@
 html{
-background: url("sakuya-izayoi-background-full-hd-1080p-221240.jpg");
-background-color: #36404A;
-background-size: cover;
-background-repeat: no-repeat;
-background-attachment: fixed;
-font-family:Iceberg;
+  background: url("sakuya-izayoi-background-full-hd-1080p-221240.jpg");
+  background-color: #36404A;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: Iceberg;
+  text-shadow: 2px 1px 3px black, 1px 2px 4px black;
 }
 pre{
-opacity:0.5;
--webkit-transition:all 250ms ease;
--moz-transition:all 250ms ease;
--o-transition:all 250ms ease;
-transition:all 250ms ease;
-color:white;
-font-family:Courier New;
+  opacity:0.5;
+  -webkit-transition:all 250ms ease;
+  -moz-transition:all 250ms ease;
+  -o-transition:all 250ms ease;
+  transition:all 250ms ease;
+  color:white;
+  font-family:Courier New;
 }
 pre:hover{
-opacity:1;
-font-weight:bold;
-color:lime;
-font-family:Courier New;
+  opacity:1;
+  font-weight:bold;
+  color:lime;
+  font-family:Courier New;
 }
