@@ -15,10 +15,12 @@ pre{
   transition:all 250ms ease;
   color:white;
   font-family:Courier New;
+  text-shadow: 2px 0px 4px black, 3px 0px 5px black, 0px 3px 4px black;
 }
 pre:hover{
   opacity:1;
   font-weight:bold;
   color:lime;
   font-family:Courier New;
+  text-shadow: 2px 0px 4px black, 3px 0px 5px black, 0px 3px 4px black;
 }
