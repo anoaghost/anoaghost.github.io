@@ -1,0 +1,21 @@
+html{
+background-color:#36404A;
+font-family:Iceberg;
+}
+
+pre{
+opacity:0.5;
+-webkit-transition:all 250ms ease;
+-moz-transition:all 250ms ease;
+-o-transition:all 250ms ease;
+transition:all 250ms ease;
+color:white;
+font-family:Courier New;
+}
+
+pre:hover{
+opacity:1;
+font-weight:bold;
+color:lime;
+font-family:Courier New;
+}
