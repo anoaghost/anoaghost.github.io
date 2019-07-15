@@ -11,6 +11,8 @@ Disallow: /assets/js/bl0ck.js
 Disallow: /assets/css/h4ck3d.css
 Disallow: /storage
 Disallow: /assets/music
+Disallow: /files/php
+Disallow: /files/php/403.php
 
 User-agent: Googlebot-category
 Disallow: /*
@@ -23,6 +25,8 @@ Disallow: /assets/js/bl0ck.js
 Disallow: /assets/css/h4ck3d.css
 Disallow: /storage
 Disallow: /assets/music
+Disallow: /files/php
+Disallow: /files/php/403.php
 
 User-agent: Mediapartners-Google*
 Disallow: /*
@@ -35,6 +39,8 @@ Disallow: /assets/js/bl0ck.js
 Disallow: /assets/css/h4ck3d.css
 Disallow: /storage
 Disallow: /assets/music
+Disallow: /files/php
+Disallow: /files/php/403.php
 
 User-agent: Applebot
 Disallow: /*
@@ -47,6 +53,8 @@ Disallow: /assets/js/bl0ck.js
 Disallow: /assets/css/h4ck3d.css
 Disallow: /storage
 Disallow: /assets/music
+Disallow: /files/php
+Disallow: /files/php/403.php
 
 User-agent: Googlebot
 Disallow: /*
@@ -59,6 +67,8 @@ Disallow: /assets/js/bl0ck.js
 Disallow: /assets/css/h4ck3d.css
 Disallow: /storage
 Disallow: /assets/music
+Disallow: /files/php
+Disallow: /files/php/403.php
 
 User-agent: baiduspider
 Disallow: /*
@@ -71,6 +81,8 @@ Disallow: /assets/js/bl0ck.js
 Disallow: /assets/css/h4ck3d.css
 Disallow: /storage
 Disallow: /assets/music
+Disallow: /files/php
+Disallow: /files/php/403.php
 
 User-agent: Bingbot
 Disallow: /*
@@ -83,3 +95,5 @@ Disallow: /assets/js/bl0ck.js
 Disallow: /assets/css/h4ck3d.css
 Disallow: /storage
 Disallow: /assets/music
+Disallow: /files/php
+Disallow: /files/php/403.php
