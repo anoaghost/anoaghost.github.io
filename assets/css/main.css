@@ -19,3 +19,24 @@ font-weight:bold;
 color:lime;
 font-family:Courier New;
 }
+
+@keyframes blink {
+  0%{opacity:0}
+  10%{opacity:1}
+  20%{opacity:0}
+  30%{opacity:1}
+  40%{opacity:0}
+  50%{opacity:1}
+  60%{opacity:0}
+  70%{opacity:1}
+  80%{opacity:0}
+  90%{opacity:1}
+  95%{opacity:0}
+  100%{opacity:1}
+}
+
+a:hover, a:active {
+    opacity:1;
+    animation-name:blink;
+    animation-duration:0.5s
+}
