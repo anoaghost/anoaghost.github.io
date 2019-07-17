@@ -1,7 +1,7 @@
 # robots.txt for https://anoaghost.github.io/
 
 User-agent: *
-Disallow: /*
+Allow: /*
 Disallow: /0x.htm
 Disallow: /assets
 Disallow: /assets/js
@@ -9,91 +9,7 @@ Disallow: /assets/css
 Disallow: /assets/js/h4ck3d.js
 Disallow: /assets/js/bl0ck.js
 Disallow: /assets/css/h4ck3d.css
-Disallow: /storage
-Disallow: /assets/music
-Disallow: /files/php
-Disallow: /files/php/403.php
-
-User-agent: Googlebot-category
-Disallow: /*
-Disallow: /0x.htm
-Disallow: /assets
-Disallow: /assets/js
-Disallow: /assets/css
-Disallow: /assets/js/h4ck3d.js
-Disallow: /assets/js/bl0ck.js
-Disallow: /assets/css/h4ck3d.css
-Disallow: /storage
-Disallow: /assets/music
-Disallow: /files/php
-Disallow: /files/php/403.php
-
-User-agent: Mediapartners-Google*
-Disallow: /*
-Disallow: /0x.htm
-Disallow: /assets
-Disallow: /assets/js
-Disallow: /assets/css
-Disallow: /assets/js/h4ck3d.js
-Disallow: /assets/js/bl0ck.js
-Disallow: /assets/css/h4ck3d.css
-Disallow: /storage
-Disallow: /assets/music
-Disallow: /files/php
-Disallow: /files/php/403.php
-
-User-agent: Applebot
-Disallow: /*
-Disallow: /0x.htm
-Disallow: /assets
-Disallow: /assets/js
-Disallow: /assets/css
-Disallow: /assets/js/h4ck3d.js
-Disallow: /assets/js/bl0ck.js
-Disallow: /assets/css/h4ck3d.css
-Disallow: /storage
-Disallow: /assets/music
-Disallow: /files/php
-Disallow: /files/php/403.php
-
-User-agent: Googlebot
-Disallow: /*
-Disallow: /0x.htm
-Disallow: /assets
-Disallow: /assets/js
-Disallow: /assets/css
-Disallow: /assets/js/h4ck3d.js
-Disallow: /assets/js/bl0ck.js
-Disallow: /assets/css/h4ck3d.css
-Disallow: /storage
-Disallow: /assets/music
-Disallow: /files/php
-Disallow: /files/php/403.php
-
-User-agent: baiduspider
-Disallow: /*
-Disallow: /0x.htm
-Disallow: /assets
-Disallow: /assets/js
-Disallow: /assets/css
-Disallow: /assets/js/h4ck3d.js
-Disallow: /assets/js/bl0ck.js
-Disallow: /assets/css/h4ck3d.css
-Disallow: /storage
-Disallow: /assets/music
-Disallow: /files/php
-Disallow: /files/php/403.php
-
-User-agent: Bingbot
-Disallow: /*
-Disallow: /0x.htm
-Disallow: /assets
-Disallow: /assets/js
-Disallow: /assets/css
-Disallow: /assets/js/h4ck3d.js
-Disallow: /assets/js/bl0ck.js
-Disallow: /assets/css/h4ck3d.css
-Disallow: /storage
+Allow: /storage
 Disallow: /assets/music
 Disallow: /files/php
 Disallow: /files/php/403.php
