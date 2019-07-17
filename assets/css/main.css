@@ -40,3 +40,19 @@ a:hover, a:active {
     animation-name:blink;
     animation-duration:0.5s
 }
+
+footerx{
+    background-color: rgba(40, 44, 52, 1);
+    color:#fff;
+    border:1px solid #333333;
+    font-family: 'Quicksand';
+    padding:2px 8px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+    width:15%;
+    text-decoration:none;
+    
+}
+footerx:hover{
+    text-decoration:underline;
+}
