@@ -41,7 +41,7 @@ a:hover, a:active {
     animation-duration:0.5s
 }
 
-footerx{
+#footerx{
     background-color: rgba(40, 44, 52, 1);
     color:#fff;
     border:1px solid #333333;
@@ -51,8 +51,8 @@ footerx{
     border-radius: 7px;
     width:15%;
     text-decoration:none;
-    
-}
-footerx:hover{
+    }
+
+#footerx:hover{
     text-decoration:underline;
 }
